@@ -2,6 +2,7 @@
   overflow-x: hidden;
 }
 
-.margin_left {
-  margin-left: 1%;
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
 }
